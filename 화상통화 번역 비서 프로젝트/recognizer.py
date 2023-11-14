@@ -29,7 +29,7 @@ with microphone as source:
 
             # 자막을 화면에 표시
             pyautogui.alert(current_caption, "Real-time Caption", timeout=1)
-
+ 
         except sr.UnknownValueError:
             print("Google Speech Recognition could not understand audio.")
         except sr.RequestError as e:

@@ -17,7 +17,7 @@ async def translate_text():
         "X-Naver-Client-Id": clientId,
         "X-Naver-Client-Secret": clientSecret
     }
-
+ 
     try:
         # 텍스트를 URL 인코딩
         text = textForTranslated.encode('utf-8')

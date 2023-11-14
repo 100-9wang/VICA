@@ -19,4 +19,4 @@ if(rescode==200):
     translated_text = response_data['message']['result']['translatedText']
     print(translated_text)
 else:
-    print("Error Code:" + rescode)
+    print("Error Code:" + rescode) 

@@ -1,5 +1,5 @@
 import openai
-import gpt_keys
+import gpt_keys 
 
 # API 키 설정
 openai.api_key = gpt_keys.OPEN_API_KEY

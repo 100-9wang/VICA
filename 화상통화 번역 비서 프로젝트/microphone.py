@@ -10,7 +10,7 @@ microphone = sr.Microphone()
 
 # Google Cloud 프로젝트 ID (본인의 Google Cloud 프로젝트 ID로 설정)
 project_id = "my.ClientID()"
-
+ 
 # 번역 서비스 초기화
 translate_client = translate.TranslationServiceClient()
 
