@@ -1,12 +1,12 @@
 import openai
-import gpt_keys 
+import gpt_keys
 
 # API 키 설정
 openai.api_key = gpt_keys.OPEN_API_KEY
 # 메세지 초기화
 messages = []
 
-# 동작
+# 무한루프 시작
 while True:
     #사용자 입력 받기
     content = input("User : ")
