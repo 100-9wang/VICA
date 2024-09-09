@@ -16,7 +16,7 @@ public class _04_escapeSequence {
         System.out.println("부추전\t\t8000원");
 
         // \\ : 역 슬래시
-        System.out.println("D:\\code\\thinkbox\\java_study");
+        //System.out.println("D:\\code\\thinkbox\\java_study");
 
         // \" : 문자열 작성시 " " 표현
         // 단비가 "냐옹" 이라고 했어요
