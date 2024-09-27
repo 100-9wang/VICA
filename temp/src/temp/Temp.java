@@ -7,6 +7,4 @@ public class Temp {
 		TODO Auto-generated method stub */
 		System.out.println("백광민");
 	}
-	
 }
-
