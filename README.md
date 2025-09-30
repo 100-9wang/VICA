@@ -50,11 +50,11 @@
 
 ## 프로젝트 파일 기능
 
-main.py → 프로그램 실행, GUI 구성, 서버/스트리밍 제어
-gui.py → 영상 통화 제어 UI 제공
-functions_1.py → 영상 스트리밍 + 실시간 번역 기능
-microphone.py → 음성 인식 + 번역 기능
-videoface_recognition.py → 얼굴 인식 + 정보 표시
+- main.py → 프로그램 실행, GUI 구성, 서버/스트리밍 제어
+- gui.py → 영상 통화 제어 UI 제공
+- functions_1.py → 영상 스트리밍 + 실시간 번역 기능
+- microphone.py → 음성 인식 + 번역 기능
+- videoface_recognition.py → 얼굴 인식 + 정보 표시
 
 ---
 
