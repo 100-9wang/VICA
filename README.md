@@ -123,15 +123,6 @@
 - CNN Model 이미지 학습
 <img width="1270" height="708" alt="Image" src="https://github.com/user-attachments/assets/9069118f-d49c-4b03-9780-25494db65b48" />
 
-
-- 얼굴 인식1
-<img width="929" height="494" alt="Image" src="https://github.com/user-attachments/assets/4251dade-2642-46ef-a34a-91058c4425e7" />
-
-
-- 얼굴 인식2
-<img width="920" height="548" alt="Image" src="https://github.com/user-attachments/assets/17200029-aff2-4147-bf7b-8884c22b5a61" />
-
-
 - 문서 요약
 <img width="632" height="580" alt="Image" src="https://github.com/user-attachments/assets/4ab16366-b162-4e3a-b4a5-3e49700e6250" />
 
